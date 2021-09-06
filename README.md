@@ -14,7 +14,7 @@ Tecnologia
 
 Unity 3D (C#)
 
-Assets utilizados
+Assets
 =====================
 ...
 
