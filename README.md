@@ -18,24 +18,10 @@ Requisitos do sistema
 *   [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 *   Maquina virtual nomeada: "kali"
 
-  
+Sistema:
 
-OS:
-
-Windows 10 (64-bit)
-
-CPU:
-
-Intel® Core™ i3-2xxx ou superior
-
-RAM:
-
-4GB
-
-GPU:
-
-NVIDIA GeForce GTX 1050 [](https://www.intel.com.br/content/www/br/pt/gaming/gaming-desktops.html)ou superior
-
-Armazenamento:
-
-Pelo menos 47 MB de espaço disponível
+* OS: Windows 10 (64-bit)
+* CPU: Intel® Core™ i3-2xxx ou superior
+* RAM: 4GB
+* GPU: NVIDIA GeForce GTX 1050 [](https://www.intel.com.br/content/www/br/pt/gaming/gaming-desktops.html)ou superior
+* Armazenamento: Pelo menos 47 MB de espaço disponível
