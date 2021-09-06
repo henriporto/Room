@@ -9,6 +9,20 @@ O grande diferencial do jogo é o fato de que cada quarto dispõe de um computad
 Com essa máquina virtual, teremos uma maior imersão, sendo possível, por exemplo, chamar outros jogadores para assistir um filme em seu quarto, fazer uma festa com música e dança, ou até trabalhar de dentro do jogo.
 
   
+Tecnologia
+=====================
+
+Unity 3D (C#)
+
+Assets utilizados
+=====================
+...
+
+Download
+=====================
+
+[Room_x64_1.000](https://henriporto.itch.io/room)
+
 
 Requisitos do sistema
 =====================
